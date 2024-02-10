@@ -1,0 +1,3 @@
+/home/ryan/Repos/gtk/build/CMakeFiles/my_gtkmm_app.dir
+/home/ryan/Repos/gtk/build/CMakeFiles/edit_cache.dir
+/home/ryan/Repos/gtk/build/CMakeFiles/rebuild_cache.dir
